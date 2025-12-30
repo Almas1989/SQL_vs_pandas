@@ -563,16 +563,16 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1650000,1,2025,35,Male,2011.0,Embedded Developer,Middle,Foreign,Almaty,C/C++,IT аутсорс/аутстафф,2025-02-08 10:53:11
 2600000,1,2025,40,Male,2008.0,Backend Developer,Senior,Foreign,Karaganda,Django,IT продукт,2025-02-08 07:54:21
 450000,1,2025,23,Female,2023.0,BI аналитик | BI Analyst,Junior,Local,Almaty,,Финтех,2025-02-08 05:58:19
-600000,1,2025,29,Female,,Backend Developer,Senior,Local,Astana,.NET,Банк,2025-02-07 20:46:02
+600000,1,2025,29,Male,,Backend Developer,Senior,Local,Astana,.NET,Банк,2025-02-07 20:46:02
 580000,1,2025,23,Male,,Machine Learning Developer | ML разработчик,Middle,Local,Astana,Python,Промышленность,2025-02-07 19:43:33
 900000,1,2025,23,Female,,Product Manager,Junior,Local,Almaty,,IT продукт,2025-02-07 16:45:19
 1300000,1,2025,23,Male,,Machine Learning Developer | ML разработчик,Middle,Local,Almaty,Python,IT продукт,2025-02-07 12:49:35
 1800000,1,2025,28,Male,,Product Designer,Lead,Foreign,Astana,,Digital агентство,2025-02-07 11:41:46
 1200000,1,2025,27,Male,,Архитектор (Architect),Middle,Local,Almaty,Java,Банк,2025-02-07 11:20:38
 100000,1,2025,24,Male,,DevOps,Junior,Local,Almaty,.NET,Телеком,2025-02-07 10:59:59
-1000000,1,2025,28,PreferNotToSay,,Тимлид | Teamleader,Lead,Local,Almaty,Flutter,IT аутсорс/аутстафф,2025-02-07 10:10:19
+1000000,1,2025,28,Male,,Тимлид | Teamleader,Lead,Local,Almaty,Flutter,IT аутсорс/аутстафф,2025-02-07 10:10:19
 700000,1,2025,24,Female,,IT Recruiter | Рекрутер,Middle,Foreign,Almaty,,Торговля (FMCG; Retail),2025-02-07 09:39:52
-100000,1,2025,22,Male,,Backend Developer,Junior,Local,Kentau,Python,Банк,2025-02-07 03:56:51
+100000,1,2025,22,PreferNotToSay,,Backend Developer,Junior,Local,Kentau,Python,Банк,2025-02-07 03:56:51
 1250000,1,2025,26,Male,,Android Developer,Senior,Local,Astana,Android,E-Commerce,2025-02-07 03:51:04
 350000,1,2025,35,Male,,Тестировщик (Tester),Middle,Local,Astana,.NET,IT аутсорс/аутстафф,2025-02-07 02:04:27
 800000,1,2025,29,Male,,Backend Developer,Senior,Local,Shymkent,YII2,Образование (Education),2025-02-07 01:23:42
@@ -582,33 +582,33 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1000000,1,2025,27,Female,,BI аналитик | BI Analyst,Senior,Local,Astana,Дата аналитика | Data Analysis,Телеком,2025-02-06 13:28:53
 230000,1,2025,23,Male,,Frontend Developer,Junior,Local,Almaty,Javascript,E-Commerce,2025-02-06 12:38:10
 500000,1,2025,27,Male,,Product Owner,Junior,Foreign,Almaty,,Saas Компания (Услуги SaaS),2025-02-06 12:00:26
-1500000,1,2025,33,Male,,Chief Product Officer (CPO),Lead,Local,Almaty,,Образование (Education),2025-02-06 11:49:36
+1500000,1,2025,33,Female,,Chief Product Officer (CPO),Lead,Local,Almaty,,Образование (Education),2025-02-06 11:49:36
 300000,1,2025,22,Female,,Project Manager,Junior,Local,Almaty,,Строительная компания,2025-02-06 11:48:39
 1500000,4,2024,26,PreferNotToSay,2019.0,Системный аналитик | System Analyst,Middle,Local,Almaty,,Телеком,2025-02-06 11:11:25
-1200000,1,2025,25,Male,,Backend Developer,Middle,Local,Karaganda,Java,HR системы,2025-02-06 10:56:22
+1200000,1,2025,25,Female,,Backend Developer,Middle,Local,Karaganda,Java,HR системы,2025-02-06 10:56:22
 800000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Django,IT продукт,2025-02-06 10:32:30
-1700000,1,2025,26,PreferNotToSay,,Системный аналитик | System Analyst,Middle,Local,Almaty,,Телеком,2025-02-06 10:31:57
+1700000,1,2025,26,Male,,Системный аналитик | System Analyst,Middle,Local,Almaty,,Телеком,2025-02-06 10:31:57
 3080000,1,2025,27,Male,,Security Engineer,Senior,Local,Almaty,Другое,IT продукт,2025-02-06 10:21:37
 590000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Финтех,2025-02-06 10:12:57
 1400000,1,2025,25,Male,,Backend Developer,Middle,Foreign,Astana,Golang,Финтех,2025-02-06 10:01:11
 472000,1,2025,25,Male,,Quality Assurance (QA),Junior,Foreign,Almaty,,IT аутсорс/аутстафф,2025-02-06 09:31:23
-800000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Банк,2025-02-06 09:26:23
+800000,1,2025,25,PreferNotToSay,,Backend Developer,Middle,Local,Almaty,Java,Банк,2025-02-06 09:26:23
 1250000,1,2025,22,Male,,Quality Assurance (QA),Lead,Local,Almaty,,Банк,2025-02-06 09:22:44
-250000,1,2025,25,Male,,Quality Assurance (QA),Junior,Local,Almaty,Javascript,Стартап,2025-02-06 08:40:53
+250000,1,2025,25,Female,,Quality Assurance (QA),Junior,Local,Almaty,Javascript,Стартап,2025-02-06 08:40:53
 1035000,4,2024,22,Male,,Quality Assurance (QA),Lead,Foreign,Almaty,Javascript,Медицина,2025-02-06 08:31:16
-850000,1,2025,29,Female,,Product Designer,Senior,Local,Almaty,,Телеком,2025-02-06 07:51:30
-550000,1,2024,27,Male,,3D Modeler,Middle,Local,Astana,,Другое | Other,2025-02-06 07:24:50
-600000,1,2025,24,Male,,IT HR,Middle,Local,Astana,,IT продукт,2025-02-06 07:01:57
+850000,1,2025,29,Male,,Product Designer,Senior,Local,Almaty,,Телеком,2025-02-06 07:51:30
+550000,1,2024,27,Female,,3D Modeler,Middle,Local,Astana,,Другое | Other,2025-02-06 07:24:50
+600000,1,2025,24,Female,,IT HR,Middle,Local,Astana,,IT продукт,2025-02-06 07:01:57
 650000,1,2025,34,Male,,System Administrator,Middle,Local,Almaty,,Финтех,2025-02-06 06:41:41
 550000,1,2025,27,Male,,Product Manager,Middle,Local,Almaty,Другое,IT продукт,2025-02-06 06:19:39
 1100000,1,2025,27,Female,,BI аналитик | BI Analyst,Middle,Local,Almaty,BI,Промышленность,2025-02-06 06:15:08
-800000,3,2024,27,Male,,Product Manager,Middle,Local,Astana,Javascript,IT продукт,2025-02-06 06:11:58
+800000,3,2024,27,Female,,Product Manager,Middle,Local,Astana,Javascript,IT продукт,2025-02-06 06:11:58
 500000,1,2025,22,Male,,Backend Developer,Junior,Local,Almaty,Java,Телеком,2025-02-06 06:04:34
 1200000,1,2025,36,Male,2015.0,Backend Developer,Middle,Local,Almaty,Java,Финтех,2025-02-06 05:45:28
-1000000,1,2025,27,Male,,Fullstack Developer,Middle,Local,Almaty,.NET,Финтех,2025-02-06 05:31:13
+1000000,1,2025,27,PreferNotToSay,,Fullstack Developer,Middle,Local,Almaty,.NET,Финтех,2025-02-06 05:31:13
 2500000,1,2025,41,Male,,Delivery Manager,Senior,Local,Almaty,Javascript,IT консалтинг,2025-02-06 05:18:43
 515000,1,2025,27,Female,,IT HR,Senior,Foreign,Almaty,,IT аутсорс/аутстафф,2025-02-06 05:00:24
-800000,1,2025,27,Male,,Дата инженер | Data Engineer,Senior,Local,Astana,Python,Нефть и газ,2025-02-06 04:29:07
+800000,1,2025,27,Female,,Дата инженер | Data Engineer,Senior,Local,Astana,Python,Нефть и газ,2025-02-06 04:29:07
 200000,1,2025,22,Male,,Backend Developer,Junior,Local,Almaty,Python,IT продукт,2025-02-06 01:17:44
 300000,1,2025,27,Male,,IT Lector (Преподаватель),Junior,Local,Turkestan,Python,Образование (Education),2025-02-06 00:26:26
 1000000,1,2025,25,Male,,Data Scientist,Middle,Local,Almaty,,IT продукт,2025-02-05 21:09:27
@@ -635,7 +635,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1100000,1,2025,27,Male,,Fullstack Developer,Senior,Local,Almaty,Javascript,IT продукт,2025-02-05 13:50:34
 1250000,1,2025,25,Male,,Android Developer,Middle,Local,Almaty,Android,Финтех,2025-02-05 13:45:23
 4000000,1,2025,25,Male,,Backend Developer,Middle,Foreign,Almaty,Java,IT продукт,2025-02-05 13:30:14
-1500000,1,2025,29,Male,,Frontend Developer,Senior,Local,Almaty,React,IT продукт,2025-02-05 13:14:30
+1500000,1,2025,29,Female,,Frontend Developer,Senior,Local,Almaty,React,IT продукт,2025-02-05 13:14:30
 1000000,1,2025,24,Female,,IT HR,Middle,Local,Almaty,,IT продукт,2025-02-05 13:01:21
 1800000,4,2024,29,Male,,Backend Developer,Senior,Local,Almaty,Java,IT продукт,2025-02-05 12:58:41
 900000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Java,E-Commerce,2025-02-05 12:00:55
@@ -646,7 +646,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 800000,1,2025,26,Male,,Frontend Developer,Middle,Local,Astana,Vue,IT продукт,2025-02-05 11:05:52
 965000,1,2025,32,Male,,Technical Support,Middle,Foreign,Astana,Python,Финтех,2025-02-05 10:55:18
 900000,1,2025,27,Male,,Business Analyst (BA),Senior,Local,Almaty,Дата аналитика | Data Analysis,Логистика,2025-02-05 10:48:31
-850000,1,2025,26,Female,,Дата аналитик | Data Analyst,Senior,Local,Astana,BI,Торговля (FMCG; Retail),2025-02-05 10:42:00
+850000,1,2025,26,Male,,Дата аналитик | Data Analyst,Senior,Local,Astana,BI,Торговля (FMCG; Retail),2025-02-05 10:42:00
 1500000,1,2025,24,Male,2020.0,Android Developer,Senior,Local,Almaty,Android,Банк,2025-02-05 10:39:41
 500000,1,2025,20,Male,,Дата инженер | Data Engineer,Junior,Local,Almaty,Python,Финтех,2025-02-05 10:39:24
 300000,1,2025,22,Male,,Backend Developer,Junior,Local,Almaty,Spring,Медицина,2025-02-05 10:37:21
@@ -656,7 +656,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 2600000,1,2025,41,Female,2005.0,Скрам-мастер (Scrum Master),Lead,Local,Almaty,,Нефть и газ,2025-02-05 09:59:48
 600000,1,2025,24,Male,,Product Designer,Middle,Local,Almaty,,Телеком,2025-02-05 09:52:00
 1000000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Laravel,Страхование (Insurance),2025-02-05 09:48:56
-800000,1,2025,25,Female,,Android Developer,Middle,Local,Almaty,Android,Банк,2025-02-05 09:46:52
+800000,1,2025,25,Male,,Android Developer,Middle,Local,Almaty,Android,Банк,2025-02-05 09:46:52
 900000,1,2025,29,Male,,Product Designer,Senior,Foreign,Astana,,IT аутсорс/аутстафф,2025-02-05 09:36:02
 800000,1,2025,33,Male,,DevOps,Middle,Foreign,Astana,Python,Стартап,2025-02-05 09:34:01
 850000,1,2025,19,Male,2024.0,Backend Developer,Middle,Foreign,Almaty,Golang,IT аутсорс/аутстафф,2025-02-05 09:24:25
@@ -669,7 +669,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 2476000,1,2025,29,Male,,Backend Developer,Senior,Local,Astana,Golang,Торговля (FMCG; Retail),2025-02-05 09:06:05
 900000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Медицина,2025-02-05 09:05:02
 730000,1,2025,25,Male,,Backend Developer,Middle,Foreign,Almaty,.NET,Промышленность,2025-02-05 09:02:32
-255000,1,2025,27,Male,,IT Lector (Преподаватель),Junior,Local,Taraz,,Образование (Education),2025-02-05 08:56:09
+255000,1,2025,27,Female,,IT Lector (Преподаватель),Junior,Local,Taraz,,Образование (Education),2025-02-05 08:56:09
 1000000,1,2025,25,Male,,Data Scientist,Middle,Foreign,Almaty,,Нефть и газ,2025-02-05 08:56:06
 75000,1,2025,20,Male,,Copywriter,Trainee,Local,Aktobe,,Продажи и маркетинг,2025-02-05 08:51:23
 650000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Банк,2025-02-05 08:48:37
@@ -678,7 +678,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 748000,1,2025,34,Male,,Дата аналитик | Data Analyst,Middle,Local,Astana,Python,Телеком,2025-02-05 08:10:00
 900000,1,2025,22,Male,2020.0,Backend Developer,Senior,Local,Almaty,Java,Банк,2025-02-05 08:08:36
 800000,1,2025,27,Male,,Fullstack Developer,Middle,Local,Almaty,Node.js,Энергетика,2025-02-05 07:50:04
-1700000,1,2025,29,PreferNotToSay,,Backend Developer,Senior,Local,Karaganda,PHP,E-Commerce,2025-02-05 07:46:06
+1700000,1,2025,29,Male,,Backend Developer,Senior,Local,Karaganda,PHP,E-Commerce,2025-02-05 07:46:06
 320000,1,2025,26,Male,2020.0,Technical Support,Middle,Local,Aktau,,Банк,2025-02-05 07:45:51
 1200000,1,2025,39,Female,,IT HR,Lead,Local,Almaty,,IT продукт,2025-02-05 07:42:07
 1000000,1,2025,39,Female,,IT HR,Lead,Foreign,Almaty,,IT консалтинг,2025-02-05 07:40:51
@@ -691,7 +691,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 2000000,1,2025,31,Male,,Business Analyst (BA),Middle,Foreign,Almaty,BI,Медицина,2025-02-05 06:56:06
 3200000,1,2025,27,Male,,Machine Learning Developer | ML разработчик,Lead,Foreign,Almaty,Machine Learning | ML,Стартап,2025-02-05 06:52:38
 1473600,1,2025,25,Male,,Backend Developer,Middle,Foreign,Almaty,.NET,Финтех,2025-02-05 06:49:59
-1100000,1,2025,29,Male,,Product Designer,Senior,Local,Almaty,,Финтех,2025-02-05 06:45:30
+1100000,1,2025,29,Female,,Product Designer,Senior,Local,Almaty,,Финтех,2025-02-05 06:45:30
 1400000,1,2025,23,Male,2021.0,Product Analyst,Middle,Local,Astana,Дата аналитика | Data Analysis,E-Commerce,2025-02-05 06:32:14
 900000,1,2025,29,Male,,System Administrator,Senior,Local,Almaty,,Авиа-компания,2025-02-05 06:26:52
 1620000,1,2025,25,PreferNotToSay,2016.0,Тимлид | Teamleader,Senior,Local,Almaty,Другое,Телеком,2025-02-05 06:04:22
@@ -701,16 +701,16 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 930000,1,2025,29,Male,,Дата инженер | Data Engineer,Middle,Local,Astana,Data Warehouse | DWH,IT аутсорс/аутстафф,2025-02-03 17:55:45
 460000,1,2025,27,Male,,Fullstack Developer,Middle,Local,Astana,.NET,Стартап,2025-02-03 09:57:29
 3667300,1,2025,31,Male,2015.0,Backend Developer,Senior,Foreign,Almaty,.NET,Продажи и маркетинг,2025-02-03 08:12:55
-2000000,1,2025,33,Female,,Product Manager,Senior,Foreign,Almaty,,IT продукт,2025-01-31 23:36:37
+2000000,1,2025,33,Male,,Product Manager,Senior,Foreign,Almaty,,IT продукт,2025-01-31 23:36:37
 1872000,1,2025,29,Male,,Frontend Developer,Senior,Foreign,Astana,React,IT аутсорс/аутстафф,2025-01-31 10:07:29
 1100000,1,2025,25,Male,2019.0,Backend Developer,Senior,Local,Astana,Laravel,HR системы,2025-01-30 15:41:46
 800000,1,2025,23,Male,,Machine Learning Developer | ML разработчик,Middle,Local,Astana,Python,Другое | Other,2025-01-30 10:10:49
 950000,4,2024,28,Male,,Quality Assurance (QA),Senior,Local,Almaty,Java,Нефть и газ,2025-01-30 08:03:36
-800000,1,2025,20,Female,,Дата инженер | Data Engineer,Junior,Foreign,Almaty,Python,IT продукт,2025-01-29 18:33:19
+800000,1,2025,20,Male,,Дата инженер | Data Engineer,Junior,Foreign,Almaty,Python,IT продукт,2025-01-29 18:33:19
 450000,1,2025,27,Male,,Technical Support,Senior,Local,Almaty,,Банк,2025-01-28 14:45:33
 700000,1,2025,25,Male,,Backend Developer,Middle,Local,Almaty,Python,IT консалтинг,2025-01-28 10:11:31
 320000,1,2025,23,Male,,Frontend Developer,Junior,Local,Astana,React,IT продукт,2025-01-28 06:05:21
-1000000,1,2025,29,Female,,Backend Developer,Senior,Local,Almaty,Node.js,Стартап,2025-01-27 18:09:39
+1000000,1,2025,29,Male,,Backend Developer,Senior,Local,Almaty,Node.js,Стартап,2025-01-27 18:09:39
 500000,1,2025,26,Male,,Frontend Developer,Middle,Local,Astana,Javascript,IT продукт,2025-01-27 15:43:48
 1300000,1,2025,28,Male,2021.0,Frontend Developer,Middle,Local,Almaty,Vue,Финтех,2025-01-27 15:09:04
 260000,1,2025,23,Female,,Product Manager,Junior,Foreign,Astana,,E-Commerce,2025-01-27 13:36:17
@@ -726,11 +726,11 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 180000,1,2025,27,Male,,Исследователь UX/CX,Junior,Local,Almaty,,IT продукт,2025-01-24 12:19:29
 350000,1,2025,23,Male,,Frontend Developer,Junior,Local,Astana,Javascript,Образование (Education),2025-01-24 07:06:28
 400000,1,2025,27,Female,,IT Recruiter | Рекрутер,Junior,Local,Astana,,Логистика,2025-01-23 08:02:20
-300000,1,2025,23,Male,,Frontend Developer,Junior,Local,Almaty,React,Издательство,2025-01-23 07:26:10
+300000,1,2025,23,Female,,Frontend Developer,Junior,Local,Almaty,React,Издательство,2025-01-23 07:26:10
 1100000,1,2025,25,Male,,Backend Developer,Middle,Local,Astana,Java,Государственное учреждение (Government),2025-01-22 20:51:32
 350000,1,2025,22,Female,2022.0,IT Recruiter | Рекрутер,Middle,Local,Almaty,.NET,IT продукт,2025-01-22 10:29:23
 700000,1,2025,33,Male,,Chief Technical Officer (CTO),Lead,Local,Almaty,,E-Commerce,2025-01-22 06:02:44
-1000000,1,2025,24,Male,,Product Analyst,Middle,Local,Almaty,,Туризм,2025-01-21 09:58:14
+1000000,1,2025,24,Female,,Product Analyst,Middle,Local,Almaty,,Туризм,2025-01-21 09:58:14
 1800000,1,2025,32,Male,2014.0,Fullstack Developer,Lead,Local,Almaty,.NET,Банк,2025-01-20 19:51:22
 1200000,1,2025,31,Male,,Тимлид | Teamleader,Middle,Local,Astana,.NET,Другое | Other,2025-01-20 15:23:43
 513000,1,2025,27,Male,,Fullstack Developer,Middle,Foreign,Almaty,.NET,IT консалтинг,2025-01-20 12:37:40
@@ -746,11 +746,11 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1400000,1,2025,27,Male,,Chief Product Officer (CPO),Middle,Local,Almaty,,Торговля (FMCG; Retail),2025-01-14 16:48:05
 1300000,1,2025,29,Male,,Frontend Developer,Senior,Foreign,Almaty,React,IT аутсорс/аутстафф,2025-01-14 14:59:44
 650000,3,2024,27,Male,,Product Owner,Middle,Local,Astana,,IT продукт,2025-01-14 09:57:45
-500000,1,2025,24,Male,,IT HR,Middle,Local,Almaty,,IT продукт,2025-01-14 08:46:06
-200000,1,2025,27,Female,,Frontend Developer,Trainee,Local,Astana,React,Web-студия,2025-01-13 19:32:04
+500000,1,2025,24,Female,,IT HR,Middle,Local,Almaty,,IT продукт,2025-01-14 08:46:06
+200000,1,2025,27,Male,,Frontend Developer,Trainee,Local,Astana,React,Web-студия,2025-01-13 19:32:04
 1150000,1,2025,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,Kotlin,IT продукт,2025-01-13 12:51:12
 700000,1,2025,26,Female,,Quality Assurance (QA),Middle,Local,Almaty,.NET,Банк,2025-01-13 12:50:54
-600000,1,2025,25,Male,,Backend Developer,Middle,Local,Astana,Java,IT продукт,2025-01-13 06:58:05
+600000,1,2025,25,Female,,Backend Developer,Middle,Local,Astana,Java,IT продукт,2025-01-13 06:58:05
 500000,1,2025,26,Male,,Frontend Developer,Middle,Local,Almaty,React,Продажи и маркетинг,2025-01-12 09:22:27
 300000,2,2024,22,Male,,Backend Developer,Junior,Local,Astana,Java,Государственное учреждение (Government),2025-01-12 03:52:53
 350000,1,2025,22,Male,,Backend Developer,Junior,Local,Almaty,Spring,Банк,2025-01-11 19:22:24
@@ -773,48 +773,48 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1500000,1,2025,22,Male,,Quality Assurance (QA),Lead,Local,Almaty,Java,E-Commerce,2025-01-09 05:21:05
 1700000,1,2025,25,Male,,Mobile Developer,Middle,Local,Almaty,Swift,IT продукт,2025-01-09 04:00:37
 1500000,1,2025,35,Male,,Backend Developer,Lead,Local,Astana,Python,Стартап,2025-01-08 23:34:19
-1800000,1,2025,26,Male,,iOS Developer,Senior,Local,Almaty,Swift,Телеком,2025-01-08 19:26:58
-250000,1,2024,32,Male,,Тестировщик (Tester),Junior,Local,Almaty,,IT продукт,2025-01-08 18:12:48
+1800000,1,2025,26,Female,,iOS Developer,Senior,Local,Almaty,Swift,Телеком,2025-01-08 19:26:58
+250000,1,2024,32,Female,,Тестировщик (Tester),Junior,Local,Almaty,,IT продукт,2025-01-08 18:12:48
 1500000,4,2024,34,Male,2011.0,Тимлид | Teamleader,Lead,Local,Almaty,Laravel,IT аутсорс/аутстафф,2025-01-08 13:28:36
-1100000,1,2025,27,Female,,Product Manager,Middle,Local,Almaty,,Финтех,2025-01-08 13:22:55
+1100000,1,2025,27,Male,,Product Manager,Middle,Local,Almaty,,Финтех,2025-01-08 13:22:55
 1000000,1,2025,28,Male,,Quality Assurance (QA),Senior,Foreign,Astana,,IT аутсорс/аутстафф,2025-01-08 13:09:55
-600000,1,2025,26,Female,,Frontend Developer,Middle,Local,Almaty,React Native,IT продукт,2025-01-08 11:00:51
+600000,1,2025,26,Male,,Frontend Developer,Middle,Local,Almaty,React Native,IT продукт,2025-01-08 11:00:51
 1400000,1,2025,25,Male,,Android Developer,Middle,Local,Almaty,Kotlin,Торговля (FMCG; Retail),2025-01-08 10:23:27
 500000,1,2025,27,Male,,Маркетинговый аналитик,Middle,Local,Astana,,IT продукт,2025-01-08 10:11:01
-750000,1,2025,26,PreferNotToSay,,Системный аналитик | System Analyst,Middle,Local,Astana,Python,Другое | Other,2025-01-08 09:39:45
+750000,1,2025,26,Male,,Системный аналитик | System Analyst,Middle,Local,Astana,Python,Другое | Other,2025-01-08 09:39:45
 550000,1,2025,26,Male,,Frontend Developer,Middle,Local,Almaty,Vue,IT продукт,2025-01-08 09:29:02
-850000,1,2025,26,Female,,Quality Assurance (QA),Middle,Local,Almaty,,Банк,2025-01-08 09:02:19
+850000,1,2025,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,,Банк,2025-01-08 09:02:19
 1100000,1,2025,25,Male,,Backend Developer,Middle,Foreign,Astana,Laravel,Финтех,2025-01-08 08:42:21
 2000000,2,2024,23,Male,,Computer vision engineer,Middle,Foreign,Astana,Python,Другое | Other,2025-01-08 08:34:06
-793000,1,2025,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,,Банк,2025-01-08 08:32:53
+793000,1,2025,26,Female,,Quality Assurance (QA),Middle,Local,Almaty,,Банк,2025-01-08 08:32:53
 350000,1,2025,24,Male,,DevOps,Junior,Foreign,Atyrau,Python,IT аутсорс/аутстафф,2025-01-08 08:32:38
 750000,4,2024,35,Male,,Тестировщик (Tester),Middle,Local,Almaty,,Банк,2025-01-08 08:28:17
-1000000,1,2025,24,Female,,Product Analyst,Middle,Local,Astana,,Финтех,2025-01-08 08:13:39
+1000000,1,2025,24,Male,,Product Analyst,Middle,Local,Astana,,Финтех,2025-01-08 08:13:39
 700000,1,2025,25,Male,,Backend Developer,Middle,Local,Astana,Java,Государственное учреждение (Government),2025-01-08 07:28:09
 1100000,1,2025,29,Male,,Backend Developer,Senior,Local,Almaty,Spring,Финтех,2025-01-08 07:23:42
 1980000,4,2024,27,Male,,Fullstack Developer,Senior,Local,Astana,Java,Государственное учреждение (Government),2025-01-08 07:21:00
-1200000,1,2025,26,Female,,Frontend Developer,Middle,Local,Almaty,React,HR системы,2025-01-08 07:15:22
-520000,1,2025,26,Male,,UI/UX Designer,Middle,Local,Almaty,,IT продукт,2025-01-08 07:14:33
-1100000,1,2025,34,Female,,Дата аналитик | Data Analyst,Middle,Local,Almaty,Python,IT продукт,2025-01-08 07:04:15
+1200000,1,2025,26,Male,,Frontend Developer,Middle,Local,Almaty,React,HR системы,2025-01-08 07:15:22
+520000,1,2025,26,Female,,UI/UX Designer,Middle,Local,Almaty,,IT продукт,2025-01-08 07:14:33
+1100000,1,2025,34,Male,,Дата аналитик | Data Analyst,Middle,Local,Almaty,Python,IT продукт,2025-01-08 07:04:15
 800000,1,2025,27,Male,,Product Manager,Middle,Local,Astana,,IT консалтинг,2025-01-08 07:03:57
 900000,1,2025,26,Female,,iOS Developer,Middle,Local,Almaty,Swift,Финтех,2025-01-08 07:01:43
 500000,1,2025,27,Male,,UX Designer,Junior,Local,Almaty,,IT продукт,2025-01-08 07:00:37
 1200000,1,2024,27,Male,,Fullstack Developer,Senior,Local,Almaty,Java,Банк,2025-01-08 06:53:01
 990000,1,2025,26,Male,,Frontend Developer,Middle,Local,Almaty,React,Промышленность,2025-01-08 06:52:35
 580000,1,2025,26,Male,,Frontend Developer,Middle,Local,Almaty,React,Банк,2025-01-08 06:51:24
-220000,4,2024,25,Female,,Quality Assurance (QA),Junior,Local,Almaty,Python,Телеком,2025-01-08 06:51:15
+220000,4,2024,25,Male,,Quality Assurance (QA),Junior,Local,Almaty,Python,Телеком,2025-01-08 06:51:15
 1900000,1,2025,36,Male,,Head Of Department,Lead,Local,Almaty,,Логистика,2025-01-08 06:50:55
 1200000,1,2025,22,Male,2022.0,Backend Developer,Middle,Local,Almaty,Java,Банк,2025-01-08 06:46:39
 918000,1,2025,23,Male,2019.0,Frontend Developer,Lead,Local,Karaganda,Javascript,Финтех,2025-01-08 06:45:20
 800000,1,2025,27,Male,,Product Manager,Middle,Local,Almaty,,Образование (Education),2025-01-08 06:45:13
 1500000,1,2025,29,Male,,Frontend Developer,Senior,Local,Almaty,Typescript,Банк,2025-01-08 06:45:02
-800000,4,2024,27,Female,,Product Manager,Middle,Local,Almaty,,Продажи и маркетинг,2025-01-08 06:44:33
+800000,4,2024,27,Male,,Product Manager,Middle,Local,Almaty,,Продажи и маркетинг,2025-01-08 06:44:33
 200000,1,2025,25,Male,,Fullstack Developer,Junior,Local,Astana,Golang,IT продукт,2025-01-08 06:44:23
 1100000,1,2025,29,Male,,Frontend Developer,Senior,Local,Astana,React,Государственное учреждение (Government),2025-01-08 06:43:49
 500000,1,2025,24,Male,,IT HR,Middle,Local,Almaty,,IT продукт,2025-01-08 06:43:13
 1900000,1,2025,29,Male,,Frontend Developer,Senior,Local,Almaty,Vue,IT продукт,2025-01-08 06:41:33
 1400000,1,2025,27,Male,,Chief Executive Officer (CEO),Middle,Local,Astana,Java,IT продукт,2025-01-08 06:40:37
-1500000,1,2025,25,Female,,Frontend Developer,Lead,Local,Almaty,React,Финтех,2025-01-08 06:40:31
+1500000,1,2025,25,Male,,Frontend Developer,Lead,Local,Almaty,React,Финтех,2025-01-08 06:40:31
 1000000,1,2025,24,Female,,Риск аналитик,Middle,Local,Almaty,Дата аналитика | Data Analysis,Финтех,2025-01-07 18:19:39
 900000,4,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Финтех,2024-12-29 10:12:37
 3664238,4,2024,29,Male,,Frontend Developer,Senior,Foreign,Almaty,Typescript,IT продукт,2024-12-28 08:29:06
@@ -828,31 +828,31 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 300000,4,2024,27,Male,,DevRel (Developer Relations),Middle,Foreign,Almaty,Machine Learning | ML,IT консалтинг,2024-12-19 23:55:57
 100000,4,2024,30,Male,,Technical Support,Junior,Local,Almaty,,Банк,2024-12-19 12:51:43
 890000,4,2024,30,Male,,Product Owner,Senior,Local,Astana,,IT продукт,2024-12-19 12:22:30
-1300000,4,2024,33,Male,,Product Manager,Senior,Local,Almaty,,Банк,2024-12-19 12:09:04
+1300000,4,2024,33,PreferNotToSay,,Product Manager,Senior,Local,Almaty,,Банк,2024-12-19 12:09:04
 800000,4,2024,34,Male,,Дата аналитик | Data Analyst,Middle,Local,Karaganda,Дата аналитика | Data Analysis,Финтех,2024-12-19 10:30:02
-800000,4,2024,33,Female,,Project Manager,Senior,Local,Astana,Другое,Финтех,2024-12-19 07:03:33
+800000,4,2024,33,Male,,Project Manager,Senior,Local,Astana,Другое,Финтех,2024-12-19 07:03:33
 1800000,4,2024,33,Male,,Chief Product Officer (CPO),Lead,Local,Almaty,Другое,Телеком,2024-12-19 06:52:21
 900000,4,2024,26,Male,,Project Manager,Middle,Local,Astana,.NET,Строительная компания,2024-12-19 06:43:53
-1000000,4,2024,33,Male,,Product Manager,Senior,Local,Almaty,,Банк,2024-12-19 06:26:42
-1600000,4,2024,33,Male,,Product Manager,Senior,Local,Astana,,E-Commerce,2024-12-18 16:51:59
+1000000,4,2024,33,PreferNotToSay,,Product Manager,Senior,Local,Almaty,,Банк,2024-12-19 06:26:42
+1600000,4,2024,33,PreferNotToSay,,Product Manager,Senior,Local,Astana,,E-Commerce,2024-12-18 16:51:59
 1200000,4,2024,27,Female,,Product Manager,Middle,Local,Almaty,,IT продукт,2024-12-18 16:42:33
 650000,4,2024,31,Male,,Business Analyst (BA),Middle,Local,Almaty,,Финтех,2024-12-18 16:30:59
 500000,4,2024,31,Male,,Business Analyst (BA),Middle,Local,Astana,,E-Commerce,2024-12-18 09:44:20
 1900000,4,2024,38,Male,2006.0,Frontend Developer,Senior,Local,Almaty,Vue,IT продукт,2024-12-17 04:59:46
-800000,4,2024,26,Male,,Frontend Developer,Middle,Local,Almaty,Vue,Финтех,2024-12-16 12:27:42
+800000,4,2024,26,Female,,Frontend Developer,Middle,Local,Almaty,Vue,Финтех,2024-12-16 12:27:42
 803500,4,2024,26,Male,,Frontend Developer,Middle,Local,Almaty,Vue,Авиа-компания,2024-12-15 07:37:25
 715000,4,2024,21,Female,2022.0,Frontend Developer,Middle,Local,Almaty,React,Банк,2024-12-15 06:24:50
-1500000,4,2024,29,Female,,Frontend Developer,Senior,Local,Astana,React,Банк,2024-12-12 11:42:36
-150000,4,2024,27,Female,,Quality Assurance (QA),Trainee,Local,Astana,Typescript,IT продукт,2024-12-12 10:32:29
+1500000,4,2024,29,Male,,Frontend Developer,Senior,Local,Astana,React,Банк,2024-12-12 11:42:36
+150000,4,2024,27,Male,,Quality Assurance (QA),Trainee,Local,Astana,Typescript,IT продукт,2024-12-12 10:32:29
 300000,4,2024,34,Male,,System Administrator,Middle,Local,Almaty,,Логистика,2024-12-11 19:30:45
 850000,4,2024,22,Male,,Quality Assurance (QA),Lead,Local,Almaty,,Финтех,2024-12-09 17:15:44
 1000000,4,2024,34,Male,,Chief Executive Officer (CEO),Lead,Local,Almaty,,Телеком,2024-12-09 04:07:35
 1300000,4,2024,46,Male,1997.0,DevOps,Middle,Foreign,Almaty,,СМИ (Средства массовой информации),2024-12-08 04:15:21
 402000,4,2024,24,Male,,Системный аналитик | System Analyst,Junior,Local,Almaty,,Телеком,2024-12-07 09:14:19
 400000,4,2024,26,Male,,Project Manager,Middle,Local,Almaty,,Web-студия,2024-12-06 13:36:56
-1000000,4,2024,26,PreferNotToSay,,Системный аналитик | System Analyst,Middle,Local,Astana,Другое,Телеком,2024-12-06 09:28:41
+1000000,4,2024,26,Female,,Системный аналитик | System Analyst,Middle,Local,Astana,Другое,Телеком,2024-12-06 09:28:41
 1210000,4,2024,27,Female,,Дата инженер | Data Engineer,Senior,Local,Almaty,Python,Авиа-компания,2024-12-06 07:51:20
-500000,4,2024,20,Female,,Дата инженер | Data Engineer,Junior,Local,Almaty,Python,Телеком,2024-12-06 07:41:05
+500000,4,2024,20,Male,,Дата инженер | Data Engineer,Junior,Local,Almaty,Python,Телеком,2024-12-06 07:41:05
 600000,4,2024,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,Java,Финтех,2024-12-06 07:22:20
 720000,4,2024,26,PreferNotToSay,,Системный аналитик | System Analyst,Middle,Local,Almaty,Другое,Банк,2024-12-05 18:20:02
 1200000,4,2024,27,Female,,BI аналитик | BI Analyst,Middle,Local,Astana,,Финтех,2024-12-05 00:18:01
@@ -861,12 +861,12 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 350000,4,2024,27,Male,,Fullstack Developer,Trainee,Local,Almaty,React,Банк,2024-12-03 13:41:23
 600000,4,2024,34,Male,,System Administrator,Middle,Local,Almaty,,Телеком,2024-12-03 10:23:57
 240000,4,2024,24,Male,,Системный аналитик | System Analyst,Junior,Local,Astana,,Государственное учреждение (Government),2024-12-03 10:03:13
-450000,4,2024,27,Male,,iOS Developer,Junior,Foreign,Astana,Swift,IT аутсорс/аутстафф,2024-12-03 07:04:02
+450000,4,2024,27,Female,,iOS Developer,Junior,Foreign,Astana,Swift,IT аутсорс/аутстафф,2024-12-03 07:04:02
 300000,4,2024,22,Male,,Backend Developer,Junior,Local,Almaty,Java,IT продукт,2024-12-03 01:26:11
 750000,4,2024,28,Male,2022.0,Backend Developer,Middle,Local,Shymkent,Ruby,IT продукт,2024-12-02 11:45:12
 1200000,4,2024,26,Male,,Frontend Developer,Middle,Foreign,Astana,Java,Web-студия,2024-11-30 17:42:30
 650000,4,2024,23,Male,2022.0,Product Designer,Middle,Local,Almaty,,Стартап,2024-11-29 21:11:12
-550000,4,2024,23,Male,,Дата аналитик | Data Analyst,Junior,Local,Karaganda,.NET,Продажи и маркетинг,2024-11-29 11:12:34
+550000,4,2024,23,Female,,Дата аналитик | Data Analyst,Junior,Local,Karaganda,.NET,Продажи и маркетинг,2024-11-29 11:12:34
 910000,4,2024,27,Male,,Дата инженер | Data Engineer,Senior,Local,Almaty,Java,Финтех,2024-11-28 18:03:26
 400000,4,2024,22,Male,,Business Analyst (BA),Junior,Local,Almaty,ERP Systems,Логистика,2024-11-28 16:27:02
 770000,4,2024,22,Female,2022.0,BI Developer,Middle,Local,Astana,BI,Строительная компания,2024-11-28 12:49:09
@@ -877,23 +877,23 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 350000,4,2024,23,Female,,Product Manager,Junior,Local,Almaty,.NET,Финтех,2024-11-27 15:33:33
 800000,4,2024,26,Male,2023.0,Quality Assurance (QA),Middle,Local,Almaty,Python,IT продукт,2024-11-27 13:27:05
 750000,4,2024,22,Male,,PL/SQL разработчик,Middle,Local,Almaty,Другое,Банк,2024-11-27 11:37:43
-300000,4,2024,27,Male,,iOS Developer,Trainee,Local,Astana,Flutter,Продажи и маркетинг,2024-11-27 08:44:56
+300000,4,2024,27,Female,,iOS Developer,Trainee,Local,Astana,Flutter,Продажи и маркетинг,2024-11-27 08:44:56
 250000,4,2024,32,Male,,Technical Support,Middle,Local,Almaty,,Телеком,2024-11-27 08:21:37
 150000,4,2024,27,Male,,DevOps,Trainee,Local,Almaty,Python,Телеком,2024-11-26 21:04:42
-250000,4,2024,27,Female,,UI Designer,Junior,Local,Almaty,,Digital агентство,2024-11-26 20:06:07
+250000,4,2024,27,Male,,UI Designer,Junior,Local,Almaty,,Digital агентство,2024-11-26 20:06:07
 921000,4,2024,27,Male,,Technical Support,Senior,Local,Almaty,,Банк,2024-11-26 18:37:53
 200000,4,2024,23,Male,,Дата аналитик | Data Analyst,Junior,Local,Astana,BI,IT консалтинг,2024-11-26 17:38:38
 700000,4,2024,24,Female,,Product Analyst,Middle,Local,Almaty,Дата аналитика | Data Analysis,Телеком,2024-11-26 14:08:56
 1200000,4,2024,26,Male,,Системный аналитик | System Analyst,Middle,Local,Astana,,IT продукт,2024-11-25 17:39:08
 1900000,4,2024,46,Male,2000.0,DevOps,Senior,Foreign,Almaty,,IT продукт,2024-11-25 15:13:04
 900000,4,2024,25,Male,,Backend Developer,Middle,Local,Astana,Python,IT аутсорс/аутстафф,2024-11-25 10:13:32
-500000,4,2024,26,Female,,Frontend Developer,Middle,Local,Almaty,React,Продажи и маркетинг,2024-11-25 09:50:52
+500000,4,2024,26,Male,,Frontend Developer,Middle,Local,Almaty,React,Продажи и маркетинг,2024-11-25 09:50:52
 1050000,4,2024,25,Male,2022.0,Системный аналитик | System Analyst,Middle,Local,Almaty,,Телеком,2024-11-25 07:39:35
 900000,4,2024,24,Male,,Product Designer,Middle,Local,Astana,,Образование (Education),2024-11-25 07:30:57
 270000,4,2024,23,Male,,Дата аналитик | Data Analyst,Junior,Local,Almaty,Python,Медицина,2024-11-22 09:13:45
 400000,4,2024,24,Male,,DevOps,Junior,Local,Almaty,Другое,Финтех,2024-11-21 15:56:21
-900000,4,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Финтех,2024-11-21 13:35:29
-2700000,4,2024,35,Female,,Backend Developer,Lead,Foreign,Astana,Golang,Стартап,2024-11-20 14:58:24
+900000,4,2024,25,PreferNotToSay,,Backend Developer,Middle,Local,Almaty,Java,Финтех,2024-11-21 13:35:29
+2700000,4,2024,35,Male,,Backend Developer,Lead,Foreign,Astana,Golang,Стартап,2024-11-20 14:58:24
 2000000,4,2024,35,Male,,Техлид (Techleader),Lead,Local,Astana,Golang,IT продукт,2024-11-19 11:59:22
 600000,4,2024,26,Female,,UI/UX Designer,Middle,Local,Almaty,,IT продукт,2024-11-18 12:48:55
 300000,4,2024,27,Male,,Frontend Developer,Trainee,Local,Karaganda,Java,IT продукт,2024-11-17 12:54:22
@@ -906,7 +906,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 300000,4,2024,24,Male,,Системный аналитик | System Analyst,Junior,Local,Astana,Дата аналитика | Data Analysis,IT аутсорс/аутстафф,2024-11-12 13:10:28
 400000,4,2024,31,Male,,Business Analyst (BA),Middle,Local,Astana,Дата аналитика | Data Analysis,IT продукт,2024-11-12 10:23:26
 280000,4,2024,22,Male,,Backend Developer,Junior,Foreign,Astana,Laravel,IT аутсорс/аутстафф,2024-11-12 10:12:08
-1400000,4,2024,27,Male,,Security Analyst,Middle,Foreign,Almaty,,IT продукт,2024-11-12 09:49:15
+1400000,4,2024,27,Female,,Security Analyst,Middle,Foreign,Almaty,,IT продукт,2024-11-12 09:49:15
 300000,4,2024,27,Male,,Data miner,Junior,Foreign,Astana,,IT аутсорс/аутстафф,2024-11-12 07:15:47
 2000000,4,2024,29,Male,,Backend Developer,Senior,Foreign,Astana,Node.js,IT аутсорс/аутстафф,2024-11-12 07:09:33
 300000,4,2024,34,Female,,Дата аналитик | Data Analyst,Middle,Local,Astana,Дата аналитика | Data Analysis,IT аутсорс/аутстафф,2024-11-12 06:42:25
@@ -922,28 +922,28 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1500000,4,2024,25,Male,,Backend Developer,Middle,Foreign,Astana,Golang,E-Commerce,2024-11-12 05:47:12
 300000,4,2024,22,Male,,Business Analyst (BA),Junior,Local,Astana,,IT консалтинг,2024-11-11 17:06:34
 210000,4,2024,18,Female,,Дата аналитик | Data Analyst,Trainee,Local,Almaty,Другое,Другое | Other,2024-11-11 13:58:05
-300000,4,2024,25,Female,,Quality Assurance (QA),Junior,Local,Astana,Java,Строительная компания,2024-11-11 13:16:54
+300000,4,2024,25,Male,,Quality Assurance (QA),Junior,Local,Astana,Java,Строительная компания,2024-11-11 13:16:54
 450000,4,2024,24,Male,,IT HR,Middle,Local,Almaty,,IT продукт,2024-11-11 12:40:32
 1000000,4,2024,27,Female,,IT Recruiter | Рекрутер,Junior,Local,Almaty,Laravel,Банк,2024-11-11 08:53:29
 800000,4,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Django,Финтех,2024-11-11 05:01:04
 140000,4,2024,23,Male,,Frontend Developer,Junior,Foreign,Astana,React,IT продукт,2024-11-10 04:08:03
-350000,4,2024,32,Female,,Тестировщик (Tester),Junior,Foreign,Astana,Java,IT аутсорс/аутстафф,2024-11-09 14:30:44
+350000,4,2024,32,Male,,Тестировщик (Tester),Junior,Foreign,Astana,Java,IT аутсорс/аутстафф,2024-11-09 14:30:44
 200000,3,2024,22,Male,,Backend Developer,Junior,Local,Astana,Python,Агропромышленность,2024-11-09 13:49:42
 200000,4,2024,27,Male,,Frontend Developer,Trainee,Local,Almaty,React,Финтех,2024-11-09 12:59:51
 1400000,4,2024,27,Male,,Fullstack Developer,Middle,Foreign,Astana,Typescript,Финтех,2024-11-09 12:28:06
 350000,4,2024,25,Male,,Mobile Developer,Junior,Local,Astana,Flutter,Финтех,2024-11-09 11:53:18
 600000,4,2024,25,Male,2018.0,Backend Developer,Middle,Local,Shymkent,PHP,Телеком,2024-11-08 19:13:28
 540000,4,2024,26,Male,,Project Manager,Middle,Local,Astana,,Телеком,2024-11-08 12:23:49
-250000,4,2024,20,Male,,Дата инженер | Data Engineer,Junior,Local,Astana,Python,Финтех,2024-11-08 07:43:53
+250000,4,2024,20,Female,,Дата инженер | Data Engineer,Junior,Local,Astana,Python,Финтех,2024-11-08 07:43:53
 245000,4,2024,32,Male,,Technical Support,Middle,Local,Astana,Дата аналитика | Data Analysis,Государственное учреждение (Government),2024-11-07 08:21:12
 1200000,4,2024,26,Female,,UI/UX Designer,Middle,Local,Almaty,Flutter,Банк,2024-11-06 18:02:03
 120000,4,2024,18,Female,,Дата аналитик | Data Analyst,Trainee,Local,Almaty,Python,Образование (Education),2024-11-06 16:41:32
 550000,4,2024,27,Male,,Информационная безопасность,Middle,Local,Astana,,Другое | Other,2024-11-06 16:38:18
-500000,4,2024,31,Female,,Business Analyst (BA),Middle,Local,Astana,Дата аналитика | Data Analysis,Образование (Education),2024-11-06 16:30:40
+500000,4,2024,31,Male,,Business Analyst (BA),Middle,Local,Astana,Дата аналитика | Data Analysis,Образование (Education),2024-11-06 16:30:40
 800000,4,2024,27,Male,,Chief Product Officer (CPO),Senior,Local,Almaty,BI,Финтех,2024-11-06 16:05:23
 1000000,4,2024,33,Male,,Project Manager,Senior,Local,Almaty,,Промышленность,2024-11-06 06:25:42
 1100000,4,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Python,Финтех,2024-11-06 05:21:45
-1000000,3,2024,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,Kotlin,IT продукт,2024-11-05 09:38:47
+1000000,3,2024,26,Female,,Quality Assurance (QA),Middle,Local,Almaty,Kotlin,IT продукт,2024-11-05 09:38:47
 400000,4,2024,25,Male,,Mobile Developer,Junior,Local,Almaty,Flutter,Стартап,2024-11-05 09:06:31
 850000,4,2024,26,Male,,Frontend Developer,Middle,Local,Astana,React,Телеком,2024-11-05 07:04:29
 700000,4,2024,39,Female,,IT HR,Lead,Local,Astana,,IT продукт,2024-11-05 06:51:09
@@ -959,7 +959,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 900000,4,2024,33,Male,,Chief Technical Officer (CTO),Lead,Local,Almaty,,Торговля (FMCG; Retail),2024-11-01 04:52:03
 790000,4,2024,22,Male,,Quality Assurance (QA),Lead,Local,Almaty,Selenide,IT продукт,2024-10-31 12:43:03
 800000,4,2024,26,Male,,Frontend Developer,Middle,Local,Astana,React,IT продукт,2024-10-28 19:13:30
-996000,3,2024,29,PreferNotToSay,,Backend Developer,Senior,Local,Almaty,Java,Телеком,2024-10-28 16:47:03
+996000,3,2024,29,Male,,Backend Developer,Senior,Local,Almaty,Java,Телеком,2024-10-28 16:47:03
 90000,4,2024,27,Male,,DevOps,Trainee,Local,Almaty,,Продажи и маркетинг,2024-10-28 16:45:32
 450000,4,2024,25,Male,,Backend Developer,Middle,Local,Astana,Python,IT продукт,2024-10-28 15:43:58
 600000,4,2024,25,Male,,Mobile Developer,Middle,Local,Almaty,Flutter,Стартап,2024-10-28 07:28:29
@@ -969,30 +969,30 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 2700000,3,2024,32,Male,,Fullstack Developer,Lead,Foreign,Almaty,Python,Финтех,2024-10-23 09:49:57
 1300000,4,2024,24,Female,2020.0,Дата инженер | Data Engineer,Middle,Foreign,Almaty,Python,IT аутсорс/аутстафф,2024-10-22 07:48:12
 700000,4,2024,25,Male,,Fullstack Developer,Junior,Local,Almaty,Ruby,Продажи и маркетинг,2024-10-21 09:03:37
-400000,4,2024,26,Female,,Frontend Developer,Middle,Local,Astana,React,IT аутсорс/аутстафф,2024-10-21 08:26:56
+400000,4,2024,26,Male,,Frontend Developer,Middle,Local,Astana,React,IT аутсорс/аутстафф,2024-10-21 08:26:56
 300000,4,2024,25,Male,,Quality Assurance (QA),Junior,Local,Astana,,IT продукт,2024-10-21 08:20:21
-600000,4,2024,26,Female,,Frontend Developer,Middle,Local,Almaty,React,Финтех,2024-10-21 07:18:16
+600000,4,2024,26,Male,,Frontend Developer,Middle,Local,Almaty,React,Финтех,2024-10-21 07:18:16
 1250000,4,2024,26,Male,,Frontend Developer,Middle,Foreign,Petropavl,React,Финтех,2024-10-20 20:50:54
 900000,4,2024,26,Male,,Frontend Developer,Middle,Local,Almaty,Vue,Банк,2024-10-20 15:29:15
 1500000,4,2024,28,Male,,Product Designer,Lead,Local,Almaty,,Банк,2024-10-19 17:06:45
-1000000,4,2024,29,Female,,Frontend Developer,Senior,Local,Astana,React,IT продукт,2024-10-18 12:56:01
+1000000,4,2024,29,Male,,Frontend Developer,Senior,Local,Astana,React,IT продукт,2024-10-18 12:56:01
 700000,4,2024,33,Male,,DevOps,Middle,Local,Astana,Python,IT продукт,2024-10-18 10:25:56
 400000,4,2024,27,Female,,UI/UX Designer,Junior,Local,Almaty,Vue,Стартап,2024-10-17 11:46:48
-340000,4,2024,22,Male,,Backend Developer,Junior,Local,Astana,.NET,Продажи и маркетинг,2024-10-17 10:42:52
-900000,4,2024,27,Male,,IT HR,Senior,Local,Almaty,,Финтех,2024-10-17 09:51:09
-440000,4,2024,27,PreferNotToSay,,Информационная безопасность,Middle,Local,Almaty,,Нефть и газ,2024-10-17 08:40:27
+340000,4,2024,22,Female,,Backend Developer,Junior,Local,Astana,.NET,Продажи и маркетинг,2024-10-17 10:42:52
+900000,4,2024,27,Female,,IT HR,Senior,Local,Almaty,,Финтех,2024-10-17 09:51:09
+440000,4,2024,27,Male,,Информационная безопасность,Middle,Local,Almaty,,Нефть и газ,2024-10-17 08:40:27
 280000,4,2024,25,Male,,Data Scientist,Junior,Local,Almaty,Python,Банк,2024-10-17 07:02:30
 520000,4,2024,35,Male,,Тестировщик (Tester),Middle,Foreign,Karaganda,,IT аутсорс/аутстафф,2024-10-17 02:42:39
-1200000,2,2024,33,PreferNotToSay,,Product Manager,Senior,Local,Almaty,,Банк,2024-10-16 12:43:46
+1200000,2,2024,33,Female,,Product Manager,Senior,Local,Almaty,,Банк,2024-10-16 12:43:46
 450000,4,2024,25,Male,,Fullstack Developer,Junior,Local,Astana,.NET,Образование (Education),2024-10-16 09:43:39
 500000,4,2024,24,Female,,IT Recruiter | Рекрутер,Middle,Local,Astana,,Другое | Other,2024-10-16 06:44:44
 500000,3,2024,27,Male,,Product Manager,Middle,Local,Astana,,IT продукт,2024-10-16 06:21:40
 150000,4,2024,26,Male,2024.0,Technical Support,Junior,Local,Astana,,Другое | Other,2024-10-16 05:38:21
-600000,4,2024,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,Другое,Банк,2024-10-15 21:11:24
+600000,4,2024,26,Female,,Quality Assurance (QA),Middle,Local,Almaty,Другое,Банк,2024-10-15 21:11:24
 2100000,4,2024,28,Male,,Quality Assurance (QA),Senior,Local,Astana,Kotlin,Финтех,2024-10-14 20:56:40
 980000,4,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Golang,Банк,2024-10-14 10:45:23
 350000,4,2024,21,Male,2023.0,Project Manager,Middle,Local,Almaty,,IT продукт,2024-10-14 10:17:40
-1800000,4,2024,30,Female,,Системный аналитик | System Analyst,Senior,Local,Almaty,Golang,Финтех,2024-10-14 09:54:25
+1800000,4,2024,30,Male,,Системный аналитик | System Analyst,Senior,Local,Almaty,Golang,Финтех,2024-10-14 09:54:25
 1500000,4,2024,29,Male,,Frontend Developer,Senior,Local,Almaty,Vue,Банк,2024-10-14 06:08:09
 800000,4,2024,25,Male,,Backend Developer,Middle,Foreign,Almaty,Golang,Банк,2024-10-12 06:01:58
 1200000,4,2024,27,Male,,Data Warehouse Specialist | DWH,Senior,Foreign,Almaty,,Банк,2024-10-11 13:05:57
@@ -1243,15 +1243,15 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 240000,4,2024,23,Male,,Frontend Developer,Junior,Local,Astana,,IT аутсорс/аутстафф,2024-10-07 09:48:51
 900000,4,2024,25,Male,2021.0,Backend Developer,Middle,Local,Astana,Java,IT продукт,2024-10-04 19:27:56
 1500000,4,2024,25,Male,,Backend Developer,Middle,Foreign,Almaty,Java,IT аутсорс/аутстафф,2024-10-03 06:38:33
-700000,4,2024,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,C/C++,Банк,2024-10-02 17:36:05
+700000,4,2024,26,Female,,Quality Assurance (QA),Middle,Local,Almaty,C/C++,Банк,2024-10-02 17:36:05
 1800000,4,2024,23,Male,2021.0,Backend Developer,Middle,Foreign,Astana,Java,Банк,2024-10-02 13:59:23
 1500000,4,2024,24,Female,,Product Analyst,Middle,Foreign,Astana,Python,GameDev (Game development),2024-10-02 12:23:00
 500000,3,2024,27,Female,,Product Manager,Middle,Local,Almaty,,Образование (Education),2024-10-02 06:07:04
 1000000,3,2024,38,Male,2009.0,Chief Executive Officer (CEO),Lead,Local,Almaty,Python,E-Commerce,2024-10-02 05:28:59
-600000,4,2024,26,Male,,Frontend Developer,Middle,Local,Karaganda,React,Образование (Education),2024-10-01 09:44:18
+600000,4,2024,26,Female,,Frontend Developer,Middle,Local,Karaganda,React,Образование (Education),2024-10-01 09:44:18
 750000,4,2024,33,Male,,Project Manager,Senior,Local,Almaty,,Страхование (Insurance),2024-10-01 09:02:34
 700000,4,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Spring,HR системы,2024-09-30 14:57:52
-1100000,3,2024,29,Female,,Backend Developer,Senior,Local,Astana,Python,Другое | Other,2024-09-27 12:30:24
+1100000,3,2024,29,Male,,Backend Developer,Senior,Local,Astana,Python,Другое | Other,2024-09-27 12:30:24
 300000,3,2024,22,Male,,Business Analyst (BA),Junior,Local,Almaty,,IT аутсорс/аутстафф,2024-09-27 10:55:36
 750000,3,2024,26,Male,,Системный аналитик | System Analyst,Middle,Local,Almaty,,IT аутсорс/аутстафф,2024-09-27 09:13:48
 1076000,3,2024,22,Male,2019.0,Product Manager,Middle,Foreign,Almaty,,Банк,2024-09-27 09:01:01
@@ -1262,23 +1262,23 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 2500000,3,2024,36,Male,2024.0,Head Of Department,Lead,Local,Almaty,,Финтех,2024-09-24 05:46:20
 600000,3,2024,26,Male,,Project Manager,Middle,Local,Astana,,IT продукт,2024-09-23 19:37:53
 1350000,3,2024,28,Female,2020.0,Project Manager,Lead,Foreign,Almaty,,Другое | Other,2024-09-23 09:15:48
-1100000,3,2024,27,Male,,Fullstack Developer,Middle,Local,Almaty,FastAPI,Образование (Education),2024-09-23 08:29:53
+1100000,3,2024,27,PreferNotToSay,,Fullstack Developer,Middle,Local,Almaty,FastAPI,Образование (Education),2024-09-23 08:29:53
 200000,3,2024,22,Male,,Backend Developer,Junior,Local,Almaty,PHP,Другое | Other,2024-09-22 20:28:36
-300000,3,2024,22,Male,,Backend Developer,Junior,Local,Almaty,Python,Банк,2024-09-21 23:39:09
+300000,3,2024,22,Female,,Backend Developer,Junior,Local,Almaty,Python,Банк,2024-09-21 23:39:09
 500000,3,2024,27,Male,,iOS Developer,Junior,Local,Almaty,Swift,IT продукт,2024-09-21 16:49:56
 750000,3,2024,25,Male,,Backend Developer,Middle,Local,Astana,Java,IT продукт,2024-09-21 13:52:01
 1500000,3,2024,25,Male,,Backend Developer,Middle,Local,Astana,Golang,IT аутсорс/аутстафф,2024-09-21 13:51:08
 400000,3,2024,34,Male,,System Administrator,Middle,Local,Almaty,Другое,Строительная компания,2024-09-20 13:39:27
-700000,3,2024,33,Female,,Project Manager,Senior,Local,Almaty,,IT аутсорс/аутстафф,2024-09-20 12:16:08
+700000,3,2024,33,Male,,Project Manager,Senior,Local,Almaty,,IT аутсорс/аутстафф,2024-09-20 12:16:08
 2000000,3,2024,34,Male,2015.0,Project Manager,Senior,Local,Almaty,,IT аутсорс/аутстафф,2024-09-20 10:32:32
 2000000,3,2024,35,Male,2008.0,Project Manager,Lead,Foreign,Almaty,,IT продукт,2024-09-20 08:21:21
-800000,3,2024,33,Male,,Project Manager,Senior,Local,Almaty,Другое,Энергетика,2024-09-20 05:29:50
+800000,3,2024,33,Female,,Project Manager,Senior,Local,Almaty,Другое,Энергетика,2024-09-20 05:29:50
 400000,3,2024,26,Male,,Quality Assurance (QA),Middle,Local,Astana,,Государственное учреждение (Government),2024-09-20 04:52:44
 880000,3,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Банк,2024-09-19 18:59:36
 800000,2,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Java,Банк,2024-09-19 18:54:17
 2000000,3,2024,25,Male,,Android Developer,Middle,Local,Almaty,Android,IT продукт,2024-09-19 11:31:08
 800000,3,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Python,IT аутсорс/аутстафф,2024-09-19 06:03:19
-950000,3,2024,26,Male,,Дата аналитик | Data Analyst,Senior,Local,Almaty,Другое,Телеком,2024-09-19 05:16:44
+950000,3,2024,26,Female,,Дата аналитик | Data Analyst,Senior,Local,Almaty,Другое,Телеком,2024-09-19 05:16:44
 1500000,3,2024,30,Male,,Data Scientist,Senior,Local,Almaty,Python,IT продукт,2024-09-18 18:44:25
 800000,3,2024,25,Male,,Android Developer,Middle,Local,Almaty,Android,IT продукт,2024-09-18 15:50:32
 1000000,3,2024,28,Male,,Quality Assurance (QA),Senior,Local,Astana,Python,Банк,2024-09-18 08:16:42
@@ -1287,7 +1287,7 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 400000,3,2024,26,Male,,Quality Assurance (QA),Middle,Local,Astana,,Образование (Education),2024-09-18 05:50:36
 180000,3,2024,27,Female,,Talent Acquisition,Junior,Local,Almaty,,Образование (Education),2024-09-18 04:46:39
 3200000,3,2024,29,Male,2014.0,Chief Technical Officer (CTO),Senior,Foreign,Almaty,Python,Другое | Other,2024-09-17 17:44:29
-400000,3,2024,22,PreferNotToSay,,Backend Developer,Junior,Local,Astana,.NET,Другое | Other,2024-09-16 14:18:32
+400000,3,2024,22,Male,,Backend Developer,Junior,Local,Astana,.NET,Другое | Other,2024-09-16 14:18:32
 1150000,3,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Python,Финтех,2024-09-16 06:37:50
 1438362,3,2024,25,Male,2020.0,Backend Developer,Middle,Foreign,Almaty,Symfony,IT продукт,2024-09-15 17:05:29
 251000,3,2024,24,Male,2022.0,Game Designer,Junior,Local,Almaty,Unreal,GameDev (Game development),2024-09-15 10:50:33
@@ -1300,18 +1300,18 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 580000,3,2024,27,Male,,Technical Support,Senior,Local,Kostanay,,Образование (Education),2024-09-12 15:29:55
 300000,3,2024,32,Male,,Technical Support,Middle,Local,Almaty,,Финтех,2024-09-12 15:26:16
 920000,3,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Java,IT продукт,2024-09-12 15:03:48
-800000,3,2024,27,Female,,Product Manager,Middle,Local,Almaty,,IT продукт,2024-09-12 13:56:06
+800000,3,2024,27,Male,,Product Manager,Middle,Local,Almaty,,IT продукт,2024-09-12 13:56:06
 425000,3,2024,27,Male,,System Administrator,Junior,Local,Kostanay,Другое,Медицина,2024-09-12 11:25:08
 650000,3,2024,24,Male,,1C Developer (1С разработчик),Middle,Local,Kostanay,,Другое | Other,2024-09-12 09:20:40
 200000,3,2024,27,Male,,Product Manager,Trainee,Local,Almaty,Другое,Продажи и маркетинг,2024-09-12 09:01:09
 850000,3,2024,26,Male,,Quality Assurance (QA),Middle,Local,Almaty,,Финтех,2024-09-12 08:40:45
 1000000,3,2024,40,Male,2000.0,Head Of Department,Lead,Local,Kostanay,,Торговля (FMCG; Retail),2024-09-12 08:25:01
 900000,3,2024,24,Male,2022.0,Backend Developer,Middle,Local,Astana,PHP,IT аутсорс/аутстафф,2024-09-12 08:17:06
-1600000,3,2024,27,Male,,Автоматизатор (Automation tests),Senior,Local,Almaty,Python,Финтех,2024-09-12 06:38:59
+1600000,3,2024,27,Female,,Автоматизатор (Automation tests),Senior,Local,Almaty,Python,Финтех,2024-09-12 06:38:59
 1800000,3,2024,34,Male,2012.0,Project Manager,Senior,Local,Almaty,,Банк,2024-09-12 06:29:05
 1250000,3,2024,25,Male,,Mobile Developer,Middle,Local,Almaty,Android,Телеком,2024-09-12 06:17:23
 600000,3,2024,24,Male,,1C Developer (1С разработчик),Middle,Local,Kostanay,Другое,Продажи и маркетинг,2024-09-12 04:47:00
-500000,3,2024,31,Male,,Business Analyst (BA),Middle,Local,Astana,,E-Commerce,2024-09-12 03:47:49
+500000,3,2024,31,Female,,Business Analyst (BA),Middle,Local,Astana,,E-Commerce,2024-09-12 03:47:49
 445000,3,2024,33,Male,,Chief Technical Officer (CTO),Lead,Local,Kostanay,PHP,Телеком,2024-09-12 03:11:37
 300000,3,2024,25,Male,,Fullstack Developer,Junior,Local,Almaty,PHP,IT аутсорс/аутстафф,2024-09-11 22:24:35
 3500000,3,2024,27,Male,,Security Engineer,Senior,Local,Kostanay,Golang,IT аутсорс/аутстафф,2024-09-11 19:29:11
@@ -1327,26 +1327,26 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1000000,3,2024,26,Male,,iOS Developer,Middle,Local,Almaty,Swift,IT продукт,2024-09-11 13:18:36
 198251,3,2024,22,Male,,Backend Developer,Junior,Local,Astana,Golang,IT продукт,2024-09-11 13:18:33
 1200000,1,2024,32,Male,,Fullstack Developer,Lead,Local,Almaty,Typescript,Продажи и маркетинг,2024-09-11 13:08:54
-600000,3,2024,27,Female,,UX Designer,Middle,Local,Almaty,,Банк,2024-09-11 13:05:45
+600000,3,2024,27,Male,,UX Designer,Middle,Local,Almaty,,Банк,2024-09-11 13:05:45
 350000,3,2024,23,Male,,Frontend Developer,Junior,Local,Almaty,React,Телеком,2024-09-11 13:01:55
 2800000,3,2024,34,Male,2013.0,Frontend Developer,Senior,Local,Almaty,React,IT продукт,2024-09-11 13:01:33
 300000,3,2024,22,Female,,Project Manager,Junior,Local,Astana,,Образование (Education),2024-09-11 12:53:26
 700000,3,2024,25,Male,,Backend Developer,Middle,Local,Almaty,Python,Другое | Other,2024-09-11 12:52:08
 550000,3,2024,25,Male,,Quality Assurance (QA),Junior,Local,Astana,,IT продукт,2024-09-11 12:51:20
 500000,3,2024,29,Female,2020.0,Quality Assurance (QA),Middle,Local,Astana,,Другое | Other,2024-09-11 12:51:16
-1000000,3,2024,27,Male,,Fullstack Developer,Senior,Local,Almaty,Java,Банк,2024-09-10 11:37:50
+1000000,3,2024,27,Female,,Fullstack Developer,Senior,Local,Almaty,Java,Банк,2024-09-10 11:37:50
 1500000,3,2024,39,Female,,IT HR,Lead,Local,Almaty,,Финтех,2024-09-10 11:12:37
 800000,3,2024,34,Male,2010.0,DevOps,Middle,Local,Astana,.NET,IT продукт,2024-09-10 09:50:05
 1000000,3,2024,33,Male,,Project Manager,Senior,Local,Astana,,IT продукт,2024-09-10 06:45:00
 700000,2,2024,25,Male,2022.0,Системный аналитик | System Analyst,Middle,Local,Almaty,Другое,Телеком,2024-09-10 06:23:31
 1350000,3,2024,29,Male,,Frontend Developer,Senior,Local,Astana,React,Банк,2024-09-10 05:29:15
-900000,3,2024,27,Female,,Product Manager,Middle,Local,Almaty,,IT продукт,2024-09-09 18:33:22
+900000,3,2024,27,Male,,Product Manager,Middle,Local,Almaty,,IT продукт,2024-09-09 18:33:22
 925000,3,2024,23,Male,,Machine Learning Developer | ML разработчик,Middle,Local,Almaty,Python,Digital агентство,2024-09-09 14:18:42
 1000000,3,2024,25,Male,,Data Scientist,Middle,Local,Almaty,Другое,Банк,2024-09-09 13:57:30
-1580000,3,2024,34,Male,,Дата аналитик | Data Analyst,Middle,Local,Almaty,Python,Saas Компания (Услуги SaaS),2024-09-09 13:03:34
+1580000,3,2024,34,Female,,Дата аналитик | Data Analyst,Middle,Local,Almaty,Python,Saas Компания (Услуги SaaS),2024-09-09 13:03:34
 250000,3,2024,25,Male,2022.0,Customer Support,Lead,Local,Almaty,,IT продукт,2024-09-09 12:34:32
 600000,3,2024,26,Male,,Frontend Developer,Middle,Local,Almaty,React,Digital агентство,2024-09-09 09:35:00
-200000,2,2024,27,Female,,Frontend Developer,Trainee,Local,Astana,Python,Другое | Other,2024-09-08 11:31:47
+200000,2,2024,27,Male,,Frontend Developer,Trainee,Local,Astana,Python,Другое | Other,2024-09-08 11:31:47
 1500000,3,2024,27,Male,,Chief Executive Officer (CEO),Junior,Local,Almaty,Laravel,IT продукт,2024-09-07 17:50:35
 650000,3,2024,22,Male,,Backend Developer,Junior,Foreign,Almaty,Golang,Банк,2024-09-06 11:40:01
 360000,3,2024,23,Male,,Дата аналитик | Data Analyst,Junior,Local,Astana,,Образование (Education),2024-09-06 06:43:20
@@ -1359,9 +1359,9 @@ Salary,Quarter,Year,Age,Gender,Started,Profession,Grade,Localization,City,Skill,
 1100000,3,2024,27,Male,,Fullstack Developer,Middle,Foreign,Saran,PHP,IT продукт,2024-09-04 19:41:14
 750000,3,2024,25,Male,,Data Scientist,Junior,Local,Almaty,Python,Банк,2024-09-04 17:53:56
 1200000,3,2024,26,Female,2016.0,Product Manager,Senior,Local,Almaty,,Телеком,2024-09-04 17:50:40
-150000,3,2024,27,Male,,Product Analyst,Senior,Local,Almaty,Python,Финтех,2024-09-04 17:42:44
-500000,3,2024,23,Female,,Дата аналитик | Data Analyst,Junior,Local,Almaty,Python,Банк,2024-09-04 17:31:43
+150000,3,2024,27,Female,,Product Analyst,Senior,Local,Almaty,Python,Финтех,2024-09-04 17:42:44
+500000,3,2024,23,Male,,Дата аналитик | Data Analyst,Junior,Local,Almaty,Python,Банк,2024-09-04 17:31:43
 2500000,3,2024,33,Male,,Chief Technical Officer (CTO),Lead,Local,Almaty,.NET,Банк,2024-09-04 17:30:40
-500000,3,2024,27,Female,,Project Manager,Trainee,Foreign,Astana,Python,Энергетика,2024-09-04 17:29:37
+500000,3,2024,27,Male,,Project Manager,Trainee,Foreign,Astana,Python,Энергетика,2024-09-04 17:29:37
 350000,3,2024,22,Male,,Backend Developer,Junior,Local,Almaty,Golang,Web-студия,2024-09-04 10:41:15
 200000,3,2024,21,Male,2024.0,Backend Developer,Junior,Local,Almaty,Spring,Финтех,2024-09-04 10:04:53
